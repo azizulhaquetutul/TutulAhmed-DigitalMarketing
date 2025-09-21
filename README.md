@@ -2,7 +2,10 @@
 
 
 Hi, I’m **Tutul Ahmed**  
-I help businesses and coaches grow consistently using **Meta Ads (Facebook & Instagram Ads), Google Ads, and Web Analytics**.  
+I help **e-commerce businesses** run profitable campaigns by finding winning ads, doing competitor research, scaling ads, and building sales funnels.  
+
+I also specialize in helping **Health & Fitness Coaches** consistently sign **5–10 new clients per month** using targeted Meta Ads, Google Ads, and optimized content strategies.  
+
 This repository showcases my **digital marketing portfolio**, including case studies, campaign strategies, and performance reports.
 
 
