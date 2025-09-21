@@ -4,7 +4,7 @@
 Hi, I’m **Tutul Ahmed**  
 I help **e-commerce businesses** run profitable campaigns by finding winning ads, doing competitor research, scaling ads, and building sales funnels.  
 
-I also specialize in helping **Health & Fitness Coaches** consistently sign **5–10 new clients per month** using targeted Meta(Instagram) Ads, Lead Magnet/Sales Page, and optimized content strategies.  
+I also specialize in helping **Health & Fitness Coaches** consistently sign **5–10 new clients per month** using targeted Meta (Instagram) Ads, Lead Magnet/Sales Page, and optimized content strategies.  
 
 This repository showcases my **digital marketing portfolio**, including case studies, campaign strategies, and performance reports.
 
@@ -12,20 +12,20 @@ This repository showcases my **digital marketing portfolio**, including case stu
 
 ## My Core Services
 **Meta Ads (Facebook & Instagram)**
-  - Conversion-focused ad campaigns  
-  - Audience research & targeting  
-  - Creative strategy & copywriting  
-  - Funnel support & retargeting  
-
+  - Conversion-focused campaigns  
+  - Audience research & competitor analysis  
+  - Creative strategy & A/B testing  
+  - Funnel support & retargeting
+  - 
 **Google Ads**
   - Search & Display campaigns  
-  - Keyword planning & bidding strategy  
-  - Performance optimization (ROAS-focused)  
-
+  - Keyword research & bidding strategies  
+  - Sales-driven optimization (maximize ROAS)
+  - 
 **Web Analytics**
   - Pixel & Conversion API setup  
-  - Google Tag Manager implementation  
-  - Campaign tracking & custom dashboards
+  - Google Tag Manager & Event Tracking  
+  - Custom dashboards & performance reports  
 
 ## 📂 Portfolio Structure
 Here you’ll find my real-world work organized into different sections:
@@ -44,7 +44,7 @@ Here you’ll find my real-world work organized into different sections:
 
 
 ## My Goal
-To help ecommerce businesses and health & wellness coaches, **More sales, find winning ads,  sign more clients, increase ROAS, and scale profitably** with data-driven advertising strategies.  
+To help businesses and coaches **scale profitably**, generate **consistent clients**, and increase **revenue growth** using proven advertising strategies.
 
 ## 📬 Contact
 **Email:** info.tutulbd@gmail.com 
@@ -53,4 +53,4 @@ To help ecommerce businesses and health & wellness coaches, **More sales, find w
 **Instagram :** [https://www.instagram.com/_tutul_ahmed_/ ]
 
 ---
-⭐ If you find this portfolio valuable, feel free to connect with me!
+ If you find this portfolio valuable, feel free to connect with me!
