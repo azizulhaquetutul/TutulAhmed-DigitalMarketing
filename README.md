@@ -22,7 +22,22 @@ This repository showcases my **digital marketing portfolio**, including case stu
 **Web Analytics**
   - Pixel & Conversion API setup  
   - Google Tag Manager implementation  
-  - Campaign tracking & custom dashboards  
+  - Campaign tracking & custom dashboards
+
+## 📂 Portfolio Structure
+Here you’ll find my real-world work organized into different sections:
+
+- **Buyer CaseStudy/**
+  - In-depth case studies with objectives, strategies, and campaign results  
+
+- **Get Your FREE Resource_Health Coach/**
+  - Lead generation campaign example for health & fitness coaches  
+
+- **Google Search Ads/**
+  - Google Ads projects including keyword planning, bidding, and performance analysis  
+
+- **Meta (Facebook & Instagram) Ads/**
+  - Facebook & Instagram Ads campaign breakdowns, creatives, and results  
 
 
 ## My Goal
