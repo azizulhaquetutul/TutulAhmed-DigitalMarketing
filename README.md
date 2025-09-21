@@ -16,7 +16,7 @@ This repository showcases my **digital marketing portfolio**, including case stu
   - Audience research & competitor analysis  
   - Creative strategy & A/B testing  
   - Funnel support & retargeting
-  - 
+    
 **Google Ads**
   - Search & Display campaigns  
   - Keyword research & bidding strategies  
