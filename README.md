@@ -21,7 +21,7 @@ This repository showcases my **digital marketing portfolio**, including case stu
   - Search & Display campaigns  
   - Keyword research & bidding strategies  
   - Sales-driven optimization (maximize ROAS)
-  - 
+    
 **Web Analytics**
   - Pixel & Conversion API setup  
   - Google Tag Manager & Event Tracking  
